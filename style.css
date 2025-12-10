@@ -24,4 +24,11 @@ header nav ul {
 header nav ul li {
   font-size: 18px;
   text-transform: uppercase;
+}
+
+section {
+  width: 100%;
+}
+section main {
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
