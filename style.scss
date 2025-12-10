@@ -20,6 +20,12 @@ header {
       display: flex;
       align-items: center;
       justify-content: space-evenly;
+      list-style: none;
+
+      li{
+        font-size: 18px;
+        text-transform: uppercase;
+      }
     }
   }
 }
