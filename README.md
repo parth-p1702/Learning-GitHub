@@ -1,1 +1,1 @@
-### The only purpose of learning Git and Github as well as understand how to create project with Git & Github <hr>
+#### The only purpose of creating this repo for learning Git and Github as well as understand how to create Branches in project and after merge it. <hr>
